@@ -3,7 +3,7 @@
 # 👋 Hi, I'm Eric — 欢迎来到我的 GitHub
 
 🎓 **东北电力大学** · 计算机科学  
-🔬 雷达脉冲去交错 · LLM 可解释性 · AI4Science  
+🔬 雷达脉冲去交错 · LLM 可解释性  
 ⚡ We're making the world a better place through code.
 
 [![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FEric-huang799&label=VISITORS&labelColor=%23ff8a65&countColor=%23263759&style=flat)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2FEric-huang799)
@@ -26,10 +26,8 @@
 
 | Project | Description |
 |---------|-------------|
-| **雷达去交错 V5.1B** | HDBSCAN + GMM 无监督雷达脉冲解交错，零训练部署 |
 | **DocU** | PDF → DOCX 高保真转换器，基于 MinerU |
-| **IFF 火控敌我甄别** | 末段拦截敌我信号识别，100% 检出率 |
-| **RAD-Scale** | LLM 语义密钥八定律，arXiv 投稿中 |
+| **duplex** | 一款人与AI同时使用的浏览器 |
 | **AgentOS** | AI 原生操作系统，21 模块 + 99 测试 |
 | **MOSS Bot** | 飞书群 OpenClaw 机器人，@ 交互 + 视觉能力 |
 
