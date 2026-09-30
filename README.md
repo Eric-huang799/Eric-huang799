@@ -15,7 +15,7 @@
 ### 🤺 About Me
 
 - 🎓 东北电力大学 · 计算机科学与技术
-- 🔬 Research: 雷达脉冲去交错 · LLM 可解释性 · AI4Science
+- 🚀 Project: **Duplex** — 一款人与 AI 同时使用的浏览器（开源）
 - 💻 Stack: Python / PyTorch / C++ / JS / Docker / Linux
 - 🤖 AI 工具重度用户：Claude Code · Ollama · ComfyUI
 - 📝 Blog: 暂无
